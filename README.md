@@ -26,12 +26,7 @@ This project helps build a strong foundation in how networks work internally and
 
 ### Running the Training Interface
 
-1. Open your web browser.
-Launch the NetPractice interface by opening the file:
-[index.html](./index.html)
-
-Open this file locally in your web browser (Chrome, Firefox, etc.).
-
+1. Open your web browser. Launch the NetPractice interface.
 3. Complete each level by correctly configuring the network elements.
 4. When a level is correct, **export the configuration** using the interface.
 
