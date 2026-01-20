@@ -53,21 +53,20 @@ Open this file locally in your web browser (Chrome, Firefox, etc.).
 
 This project covers the following networking fundamentals:
 
-- TCP/IP addressing
+- TCP/IP model layers
 - IPv4 addresses
 - Subnet masks
 - Network and host separation
 - Default gateway
 - Routers and switches
 - Broadcast and network ranges
-- OSI model layers
 - Basic routing principles
 - How devices communicate inside and outside a network
 
 ## Resources
 
-[NetPractice Explained – YouTube](https://www.youtube.com/watch?v=5WfiTHiU4x8&list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF)
-
+Almost everything is clearly explained in this playlist.
+[Networking Concepts – YouTube](https://www.youtube.com/watch?v=5WfiTHiU4x8&list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF)
 
 
 ### Use of AI
